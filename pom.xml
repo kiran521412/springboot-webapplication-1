@@ -20,8 +20,8 @@
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
 
 		  
-		  <sonar.host.url>http://100.26.53.82:9000</sonar.host.url>
-		  <sonar.host.login>03c758c44128b4ac7c307f486455c58774fd3fd5</sonar.host.login>
+		  <sonar.host.url>http://34.227.161.62:9000 </sonar.host.url>
+		  <sonar.host.login>1dc0bc7a6a6537dd707a6ade9582f15f220d5992</sonar.host.login>
 		  
 
 				<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
