@@ -33,15 +33,12 @@
 	</dependencies>
 	
 	<build>
-	<plugins>
-		<groupId>org.codehaus.sonar</groupId>
-		<version>2.5</version>	
-		</plugins>
+	     <plugins>
 		    <plugin>
                     <artifactId>maven-war-plugin</artifactId>
                     <version>3.2.2</version>
-                </plugin>
+                    </plugin>
 			
-		</plugins>
+	      </plugins>
 	</build>
 </project>
